@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gGP5EZA3qlMZgfv3fg8tZJtaNcpygNfHv59IBQAZ6qUvHPohVgFEUBb46uBVI+DEsq2P9rwQybL6A06rbv46eg==",
+  "success": true,
+  "projectFilePath": "/Users/collinwheeler/code/dotnet_sdk_sample/Sample_App/Sample_App.csproj",
+  "expectedPackageFiles": [
+    "/Users/collinwheeler/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.21/microsoft.netcore.app.host.osx-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
