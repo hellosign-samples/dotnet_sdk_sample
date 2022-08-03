@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="HelloSign" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="HelloSign" Version="1.5.3" />
+  </ItemGroup>
 </Project>
