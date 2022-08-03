@@ -7,8 +7,12 @@
 
   <ItemGroup>
     <None Remove="HelloSign" />
+    <None Remove="model\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="HelloSign" Version="1.5.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="model\" />
   </ItemGroup>
 </Project>
