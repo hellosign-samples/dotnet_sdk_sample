@@ -1,0 +1,3 @@
+[submodule "dotnet_oas/hellosign-dotnet-sdk"]
+	path = dotnet_oas/hellosign-dotnet-sdk
+	url = git@github.com:hellosign/hellosign-dotnet-sdk.git
